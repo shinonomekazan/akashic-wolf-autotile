@@ -5,6 +5,7 @@
 		"noImplicitAny": true,
 		"module": "commonjs",
 		"outDir": "build",
+		"declaration": true,
 		"types": [],
 		"sourceMap": true,
 		"allowUmdGlobalAccess": true,
