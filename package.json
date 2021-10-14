@@ -1,6 +1,6 @@
 {
 	"name": "akashic-wolf-autotile",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "**akashic-wolf-autotiel**は [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)のマップチップを[Akashic Engine](https://akashic-games.github.io/)で読み込むライブラリです。",
 	"main": "build/index.js",
 	"files": [
