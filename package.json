@@ -35,5 +35,5 @@
 	"dependencies": {
 		"@akashic-extension/akashic-tile": "^3.0.1"
 	},
-	"typings": "lib/index.d.ts"
+	"typings": "build/index.d.ts"
 }
