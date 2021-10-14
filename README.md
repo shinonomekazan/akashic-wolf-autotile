@@ -1,6 +1,6 @@
 # akashic-wolf-autotile
 
-**akashic-wolf-autotiel**は [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)のマップチップを[Akashic Engine](https://akashic-games.github.io/)で読み込むライブラリです。
+**akashic-wolf-autotile**は [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)のマップチップを[Akashic Engine](https://akashic-games.github.io/)で読み込むライブラリです。
 
 ## 利用方法
 
